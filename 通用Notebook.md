@@ -1,5 +1,5 @@
-### Markdown 的简介 ###
-https://www.jianshu.com/p/q81RER
+###【资料】
+Markdown 语法说明 [id]: https://www.jianshu.com/p/q81RER
 
 
 #### Markdown 语法说明。
