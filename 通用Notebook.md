@@ -21,13 +21,13 @@
 
 
 
-### 【Markdown】
- **常用** 
- 
-![check icon](https://tingfengting.files.wordpress.com/2018/08/10.jpg)
+### 【Markdown常用语法格式】
 
 **黑体**
 
+![Icon](https://tingfengting.files.wordpress.com/2018/08/10.jpg)
+
+`插入图片：![图片名字](图片链接)`
 
 `代码：头尾用反引括起来`
 
