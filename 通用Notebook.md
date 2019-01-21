@@ -6,5 +6,5 @@
 * [Markdown 完整语法说明中文版](http://wow.kuapp.com/markdown/)
 * [Markdown 语法规范](https://github.com/hzlzh/1MarkDown)
 * [Github 的 Markdown 语法入门指南](https://blog.csdn.net/beswkwangbo/article/details/48289727)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这一篇用图显示代码所以更清晰些。
-
+* [guo365/study](https://github.com/guo365/study/blob/master/markdown.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这一个最全
 
