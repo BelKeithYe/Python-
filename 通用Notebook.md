@@ -48,7 +48,7 @@ ____
 分割线3：三个以上的星号
 
 
-[链接文字](链接地址)
+`[链接文字](链接地址)`
 
 [Markdown 语法说明](https://www.appinn.com/markdown/)
 
