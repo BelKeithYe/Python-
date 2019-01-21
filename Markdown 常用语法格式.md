@@ -6,18 +6,19 @@
 
 * 插入图片：
 
-```![图片名字](图片链接)```
+```![说明文字](图片链接)```
 
-![Icon](https://tingfengting.files.wordpress.com/2018/08/10.jpg)
+![测试用图片](https://cdn.pixabay.com/photo/2013/11/01/12/44/red-currant-203929_1280.jpg)
 
 
 * 引用式插图
 
-    ![文字][id]
+    ![说明文字][id]
     [id]:链接"Title"
 
-![此处插入图片][Icon01]
-[Icon01]：https://tingfengting.files.wordpress.com/2018/08/10.jpg
+![测试用图片][icon01]
+
+[icon01]：https://cdn.pixabay.com/photo/2018/08/05/10/26/currants-3585286_1280.jpg
 
 
 
