@@ -4,14 +4,20 @@
 
 ~~两个波浪号是删除线~~
 
-插入图片：
+* 插入图片：
 
 ```![图片名字](图片链接)```
 
 ![Icon](https://tingfengting.files.wordpress.com/2018/08/10.jpg)
 
 
+* 引用式插图
 
+    ![文字][id]
+    [id]:链接"Title"
+
+![此处插入图片][Icon01]
+[Icon01]：https://tingfengting.files.wordpress.com/2018/08/10.jpg
 
 
 
