@@ -6,20 +6,20 @@
 
 * 插入图片：
 
-```![说明文字](图片链接)```
+    ```![说明文字](图片链接)"标题" ```     
+    ```这个说明文字是指当图片不存在的时候要显示的文字``` 
 
-![测试用图片](https://cdn.pixabay.com/photo/2013/11/01/12/44/red-currant-203929_1280.jpg)
+![图片](https://cdn.pixabay.com/photo/2013/11/01/12/44/red-currant-203929_1280.jpg)
 如若需要调整图片尺寸和对齐要用 HTML 。
 
 
 * 引用式插图
 
-    ![说明文字][id]
-    [id]:链接"Title"
+```![说明文字][id]```
+```[id]:链接"Title" ```
 
-![测试用图片][icon01]
-
-[icon01]：https://cdn.pixabay.com/photo/2018/08/05/10/26/currants-3585286_1280.jpg
+![图片][icon01]
+[icon01]: https://cdn.pixabay.com/photo/2018/08/05/10/26/currants-3585286_1280.jpg
 
 
 
