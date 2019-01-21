@@ -4,6 +4,13 @@
 
 ~~两个波浪号是删除线~~
 
+* 链接
+
+\[链接文字\](链接地址)
+
+[详细的语法说明可看这里。](http://wow.kuapp.com/markdown/)
+
+
 * 插入图片：
 
     \!\[说明文字\](图片链接)"标题"     
@@ -48,8 +55,5 @@ ____
 分割线3：三个以上的星号
 
 
-`[链接文字](链接地址)`
 
-[Markdown 语法说明](https://www.appinn.com/markdown/)
 
-https://github.com/chinese-poetry/chinese-poetry
