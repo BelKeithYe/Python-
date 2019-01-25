@@ -1,15 +1,19 @@
 ## 【资料】
 
-### 【输出】
+### 【输入】
 * [删除空格]
     * [strip()]删头尾空格；[lstrip()]删头空格；[rstrip()]删尾空格；
   
 * [删行内空格]
     * 最好的方法:
-    
-      file_object = ".join(file_object.split())
-      file_object = ".join(file_object.split())
-    
+        
+        用split 把文件分割成一个个字符串然后再join 起来，join 的过程中用nothing来粘
+                                        
+            file_object = ".join(file_object.split())
+            
+    * 还有其它的方法。
+        
+
 
 
 ### 【Markdown】
