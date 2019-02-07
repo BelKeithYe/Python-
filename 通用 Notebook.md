@@ -1,6 +1,7 @@
 ### 【资料】
+* [matplotlib colormaps](https://matplotlib.org/users/colormaps.html)
 
-### 【输入】
+### 【例子】
 
 * [删除空格]
     * [strip()]删头尾空格；[lstrip()]删头空格；[rstrip()]删尾空格；
